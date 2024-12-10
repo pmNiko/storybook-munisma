@@ -1,0 +1,1 @@
+import{r as n}from"./index-Cp_2WB0_.js";import{l as r,m as s}from"./DefaultPropsProvider-ELLn0s9H.js";function o(e){return Object.keys(e).length===0}function m(e=null){const t=n.useContext(r);return!t||o(t)?e:t}const u=s();function h(e=u){return m(e)}export{m as a,h as u};
