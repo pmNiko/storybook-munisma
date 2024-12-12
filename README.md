@@ -1,4 +1,4 @@
-# 🚀 ¡Bienvenido a Storybook! 📚✨
+# 🚀 ¡Bienvenido a Storybook MuniSMA! 📚✨
 
 ### ¿De qué trata este proyecto?
 
